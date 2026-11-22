@@ -1,0 +1,4 @@
+Source repository: https://github.com/resarytrew/QuizFlow22-Yandex.git
+Source commit: 482028bb96d312266d08f172246d7b711eee2556
+Extraction date: 2026-11-22
+Scope: main landing page at / and its Canvas/landing blocks only
